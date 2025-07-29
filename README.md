@@ -99,11 +99,3 @@ For detailed component APIs, examples, and advanced usage, please visit the [ful
 This project is open source and contributions are welcome. If you have an issue, question, or pull request, please feel free to open one.
 
 This project is licensed under the **MIT License**.
-
-## A Note from the Creator
-
-This project was built out of a passion for creating useful tools for the developer community. I'm based in Myanmar, where international payment platforms like "Buy Me a Coffee" aren't available.
-
-If you are from my country and would like to show your support, it would be greatly appreciated. Thank you for your encouragement!
-
-**KBZ Pay:** `09756302537` (Htet Aung Lin)
